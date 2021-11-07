@@ -13,8 +13,7 @@ Additional mods/addons:
 * [AP] Advanced Peripherals: https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals
 
 
-#### Note:
-You can always rewrite/comment out chunks of the code to make it work withoud additional mods!
+#### Note: You can always rewrite/comment out chunks of the code to make it work withoud additional mods!
 
 ### Display Time
 A script that displays the current Minecraft and Server time to a monitor.
