@@ -65,7 +65,7 @@ local function printWelcomeMessage()
         "Welcome to the farming program!",
         "¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯",
         "  Author: nirokay",
-        "  Repo: https://github.com/nirokay\n",
+        "  Repo: https://github.com/nirokay/Luadventures\n",
 
         "Current config:",
         "  Crop: " .. config.crop.item,
