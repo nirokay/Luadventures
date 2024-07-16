@@ -138,7 +138,7 @@ end)
 -- Harvesting and Replanting:
 local function attemptReplanting()
     local currentItem = turtle.getItemDetail()
-        if not currentItem == nil then
+    if not currentItem == nil then
         -- Place potato from currently held item:
         if currentItem.name == config.crop.item then
             debug_print("Placing down crop!")
