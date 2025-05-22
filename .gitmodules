@@ -1,0 +1,4 @@
+[submodule "cc-tweaked"]
+	path = cc-tweaked
+	url = git@github.com:nirokay/cc-tweaked.git
+	branch = master

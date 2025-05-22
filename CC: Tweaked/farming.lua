@@ -62,10 +62,12 @@ local function printWelcomeMessage()
     term.setCursorPos(1, 1)
     -- Print text:
     local text = {
-        "Welcome to the farming program!",
-        "¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯",
+        "Welcome to the farming program (deprecated)!",
+        "¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯",
         "  Author: nirokay",
-        "  Repo: https://github.com/nirokay/Luadventures\n",
+        "  Old: https://github.com/nirokay/Luadventures",
+        "  New: https://github.com/nirokay/cc-tweaked",
+        "Please consider switching to new repository!\n",
 
         "Current config:",
         "  Crop: " .. config.crop.item,

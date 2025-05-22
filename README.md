@@ -1,12 +1,13 @@
 # Luadventures
 This is a collection for all kinds of scripts/programs i make in Lua. I'm new to Lua, so join me on my adventure! Get it? Because the repository name... haha, funny right?
 
+> [!WARNING]
+> Minecraft CC:Tweaked scripts [moved to this repository](https://github.com/nirokay/cc-tweaked)!
 
 ## Contents
 
 ### DnD Script
 This script simulates virtual dice. You can specify how many and which one you roll.
-
 
 ### Name Generator
 Need help generating names for places/cities? Well thats a specific problem...

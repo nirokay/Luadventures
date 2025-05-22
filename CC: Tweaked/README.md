@@ -4,6 +4,11 @@ This is a collection of lua scripts made in "ComputerCraft: Tweaked", a Minecraf
 
 https://www.curseforge.com/minecraft/mc-mods/cc-tweaked
 
+> [!WARNING]
+> Repository moved to [new repository](https://github.com/nirokay/cc-tweaked)!
+>
+> Support here is deprecated!
+
 ## Contents
 
 If you see a...
